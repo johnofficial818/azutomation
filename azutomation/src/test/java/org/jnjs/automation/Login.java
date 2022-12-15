@@ -9,7 +9,7 @@ public class Login {
 	@Test
     public void evaluatesExpression() {
        
-       int sum = 7;
-       assertEquals(7, sum);
+       int sum = 8;
+       assertEquals(8, sum);
     }
 }
